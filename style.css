@@ -1,0 +1,124 @@
+
+body {
+    font-family: Roboto;
+     background-image: url(" https://coolwallpapers.me/th700/2996756-drink-coffee___mixed-wallpapers.jpg"); 
+      background-size: cover ; 
+      background-repeat: no-repeat;
+ 
+}
+
+#container {
+  
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  background: #f7f7f7;
+  border-radius: 22px;
+ border-style: solid;
+  margin-left: 800px;
+
+ border-color: #3c0de7;
+}
+
+h1 {
+  background: #3c0de7;
+  color: white;
+  margin: 0;
+  padding: 10px 100px;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight:bolder ;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+p {
+  padding-left: 20px;
+  font-size: larger;
+}
+
+form input[type="text"] {
+  width :90px;
+}
+
+input {
+  padding-left: 20px;
+}
+
+#bill {
+  font-size: 14px;
+  
+
+  background-color: #f7f7f7;
+  width: 70%;
+  padding: 5px 5px 8px 8px;
+}
+
+#bill:focus {
+  background: #fff;
+  border: 3px solid #2980b9;
+  outline: none;
+}
+
+#people {
+  width: 70%;
+  padding: 5px 5px 8px 8px;
+  margin-left: 20px;
+  
+  background-color: #f7f7f7;
+  font-size: 14px;
+ 
+}
+#people:focus{
+  background: #fff;
+  border: 3px solid #2980b9;
+  outline: none;
+}
+
+
+#service {
+  padding: 13px 13px 20px 20px;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #3413ad;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+  color: white;
+}
+
+button:hover {
+  background: #4c2827;
+  border-bottom-color: #111;
+}
+
+  
+
+ img{
+   position:absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 8px;
+    left: 16px;
+
+}
+#total {
+  font-size: 30px;
+  margin-top: 5px;
+  text-align: center;
+}
+#total sup {
+  font-size: 20px;
+  top: -18px;
+}
+  
+ 
+  
